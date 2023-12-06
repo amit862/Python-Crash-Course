@@ -1,0 +1,8 @@
+int(10.5)
+print(10.5)
+int("10")
+print(10)
+#int("5+6j")
+#print(5+6j)
+int("ten")
+int("Ranjan")
